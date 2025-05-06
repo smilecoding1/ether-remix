@@ -1,0 +1,2 @@
+nix-env -iA nixpkgs.gcc
+g++ -fopenmp main.cpp -o main
